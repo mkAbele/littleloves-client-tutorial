@@ -1,12 +1,12 @@
-﻿Littleloves Workflow ![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.001.png)
+﻿Littleloves
 
-1  Navigate to [littleloves.lv/wp-admin](https://littleloves.lv/wp-admin/)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.002.png)
-1  Click "Visi produkti"![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.003.png)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.004.jpeg)
-3  Click the "Meklēt Produktus:" field.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.005.png)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.006.jpeg)
+1  Navigate to [littleloves.lv/wp-admin](https://littleloves.lv/wp-admin/)
+1  Click "Visi produkti"![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.004.jpeg)
+3  Click the "Meklēt Produktus:" field.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.006.jpeg)
 3  Type "lig [[enter]]"![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.007.png)
-5  Click this dropdown.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.005.png)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.008.jpeg)
-5  Click this button.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.005.png)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.009.jpeg)
-7  Click "Rediģēt"![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.005.png)![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.010.jpeg)
+5  Click this dropdown.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.008.jpeg)
+5  Click this button.![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.009.jpeg)
+7  Click "Rediģēt"![](Aspose.Words.d3ac574c-056a-4358-924b-2c06379f30f0.010.jpeg)
 
 Made with Scribe - https://scribehow.com 4
 8  Click "Dzēst
