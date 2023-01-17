@@ -163,6 +163,3 @@ Atrod kurš atribūts tiek pielietots konkrētā produktā un atceries tā nosau
 ### 37. Click on Nosaukums from Minky krāsas
 ![Step 37 screenshot](https://images.tango.us/workflows/7d27193b-b6b9-45a4-bc7b-1de7d0d57108/steps/7ad07a48-45fc-4b98-acad-85d4e591b49b/180a4d9f-3348-44e7-9d66-1559f3a10158.png?crop=focalpoint&fit=crop&w=1200&mark-w=0.2&mark-pad=0&mark64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n&ar=1920%3A937)
 
-
-***
-_[This Workflow was created with Tango](https://app.tango.us/app/workflow/7d27193b-b6b9-45a4-bc7b-1de7d0d57108?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
