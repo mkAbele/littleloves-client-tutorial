@@ -5,7 +5,7 @@ __Date:__ January 17, 2023
 
 __Author:__ Marks Kristiāns Ābele
 
-<video src="content/movie_1.mp4"></video>
+<video src="https://github.com/mkAbele/littleloves-client-tutorial/blob/main/content/movie_1.mp4"></video>
 
 ***
 
