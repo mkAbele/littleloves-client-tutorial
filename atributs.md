@@ -5,6 +5,8 @@ __Date:__ January 17, 2023
 
 __Author:__ Marks Kristiāns Ābele
 
+<video src="content/movie_1.mp4"></video>
+
 ***
 
 ### 1. Sākam darbu ieejot administrācijas panelī.
